@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 400px;
+    width: 100%;
+    background-image: url(./matrix.gif);
+ }
+
+ h1 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 80px;
+
+ }
+
+ .editar {
+   color: red;
+   
+ }
+
+ .destaque {
+    color: #0087ad;
+   
+ }
+
+ p {
+    font-size: 40px;
+    color:#ffffff;
+    text-align: center;
+ }
